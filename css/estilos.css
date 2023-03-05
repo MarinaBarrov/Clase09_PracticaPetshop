@@ -99,7 +99,8 @@ background-color: #FBFAF6;
 .footer-copyright {
   background-color: #222222;
   color: #ffffff;
-  padding: 4px 440px;
+  padding: 4px;
+  text-align: center;
 }
 
 .footer-info {
@@ -116,4 +117,8 @@ color: #8A8787;
 
 .footer-lastlogo {
   color: #F0A83E;
+}
+
+.footer-link {
+  margin-bottom: 10px;
 }
