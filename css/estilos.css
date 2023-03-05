@@ -58,7 +58,7 @@
   text-align: center;
 }
 .banner-img-container {
-  background-image: url("/img/bowl-and-pet-daities-on-green-background.png");
+  background-image: url("../img/bowl-and-pet-daities-on-green-background.png");
   height: 409px;
   background-repeat: no-repeat;
   background-size: cover;
